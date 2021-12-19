@@ -1,0 +1,21 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "Example for crud operations using mysql/ postgres",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "NodeJs",
+    "Node",
+    "node-crud",
+    "nodejs-crud",
+    "node-mysql"
+  ],
+  "author": "Webapp Developer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
